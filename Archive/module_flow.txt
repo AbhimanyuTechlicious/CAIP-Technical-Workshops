@@ -1,0 +1,283 @@
+Technical Workshops
+
+Toggle
+Context that enables smarter agents
+
+Toggle
+Execution Guide
+
+icon
+Execution Guide
+
+
+Toggle
+Whiteboarding Architectures
+
+icon
+Whiteboarding Architectures
+
+
+Toggle
+Rapid Prototyping Assets
+
+Toggle
+Solution Accelerator(s)
+
+icon
+Build your IQ — context across people, business & knowledge
+
+
+icon
+Ground AI in shared business meaning
+
+
+Toggle
+Hands on Labs
+
+Toggle
+Fabric IQ Hands on Labs
+
+icon
+Fabric IQ Hands on Labs
+
+
+Toggle
+Foundry IQ Hands on Labs
+
+icon
+Foundry IQ Hands on Labs
+
+
+Toggle
+Work IQ Hands on Labs
+
+icon
+Work IQ Hands on Labs
+
+
+Toggle
+Git hub Repos
+
+icon
+Fabric IQ
+
+
+icon
+Foundry IQ
+
+
+icon
+Work IQ
+
+
+icon
+Fabric IQ , Foundry IQ & Work IQ
+
+
+Toggle
+Sample Prototype
+
+icon
+Test Drive
+
+
+icon
+Sample Prototype Package
+
+
+Toggle
+Prototype using Cora
+
+icon
+Cora (Preview)
+
+Toggle
+MVP
+
+icon
+Coming Soon
+
+Toggle
+Quality results your business can trust
+
+Toggle
+Execution Guide
+
+icon
+Execution Guide
+
+
+Toggle
+Whiteboarding Architectures
+
+icon
+Whiteboarding Architectures
+
+
+Toggle
+Rapid Prototyping Assets
+
+Toggle
+Solution Accelerator(s)
+
+icon
+Solution Accelerators
+
+
+Toggle
+Hands on Labs
+
+Toggle
+Fabric IQ Hands on Labs
+
+icon
+Fabric IQ Hands on Labs
+
+
+Toggle
+Foundry IQ Hands on Labs
+
+icon
+Foundry IQ Hands on Labs
+
+
+Toggle
+Work IQ Hands on Labs
+
+icon
+Work IQ Hands on Labs
+
+
+Toggle
+Git hub Repos
+
+icon
+Fabric IQ
+
+
+icon
+Foundry IQ
+
+
+icon
+Work IQ
+
+
+icon
+Fabric IQ , Foundry IQ & Work IQ
+
+
+Toggle
+Sample Prototype
+
+icon
+Test Drive
+
+
+icon
+Sample Prototype Package
+
+
+Toggle
+Prototype using Cora
+
+icon
+Cora (Preview)
+
+Toggle
+MVP
+
+icon
+Coming Soon
+
+Toggle
+Supporting Assets
+
+Toggle
+Narrative
+
+Toggle
+Pitch decks
+
+icon
+Fabric IQ L100 Pitch Deck
+
+
+icon
+Foundry Agent Service L100 Pitch Deck
+
+
+icon
+Microsoft Agent Framework L150 Pitch Deck
+
+
+icon
+Foundry IQ L200 Pitch Deck
+
+
+icon
+Building Agents with Microsoft – Customer Pitch Deck (L200)
+
+
+Toggle
+Demos
+
+icon
+Azure Hero Demos
+
+
+icon
+Responsible AI Integration with AI Foundry
+
+
+icon
+Multi-Agent Workflows in Foundry Agent Service
+
+
+icon
+End-to-End Agent Control using Foundry Control Plane
+
+
+Toggle
+Manufacturing IQ Demos
+
+icon
+Simulated
+
+
+icon
+Live
+
+
+Toggle
+Retail IQ Demos
+
+icon
+Simulated
+
+
+icon
+Live
+
+
+Toggle
+Telco IQ Demos
+
+icon
+Simulated
+
+
+icon
+Live
+
+
+Toggle
+FSI IQ Demos
+
+icon
+Simulated
+
+
+icon
+Live
+

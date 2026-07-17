@@ -1,0 +1,368 @@
+{
+  "workshop": "Unified Data & AI Estate",
+  "workshop_aliases": [
+    "unified data and ai estate",
+    "unified data & ai estate",
+    "unified data ai estate",
+    "build a unified governed data and ai estate",
+    "unified",
+    "build a unified governed data",
+    "ünify"
+  ],
+  "supporting_assets": {
+    "narrative": {
+      "pitch_decks": [
+        {
+          "title": "Fabric L100 Pitch Deck",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%2Fdde0caec0e-9236-f21b-2991-5868e63d3984%2FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%2CPT0%3D%2CUHJvZHVjdCBQaXRjaCBEZWNr%2Flf4549f60e-0f58-407a-a4be-074376b784b7/",
+          "status": "available",
+          "context": "Microsoft Fabric L100 pitch deck for introductory customer conversations about the Microsoft Fabric unified data platform.",
+          "keywords": ["pitch deck", "fabric", "l100", "unified data", "narrative", "supporting assets"]
+        },
+        {
+          "title": "L100 – Unify Your Data Platform",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%2Fdde0caec0e-9236-f21b-2991-5868e63d3984%2FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%2CPT0%3D%2CU29sdXRpb24gUGxheSBQaXRjaCBEZWNr%2Flfc15686df-a335-4a0a-85d5-c7dcc3a4937e/",
+          "status": "available",
+          "context": "L100 solution play pitch deck for unifying your data platform with Microsoft Fabric.",
+          "keywords": ["pitch deck", "l100", "unify data platform", "fabric", "narrative", "supporting assets"]
+        },
+        {
+          "title": "Unified Data Foundation with Fabric",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%2Fdde0caec0e-9236-f21b-2991-5868e63d3984%2FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%2CPT0%3D%2CUHJvZHVjdCBSZWxhdGVkIERvY3VtZW50YXRpb24%3D%2Flf627b2d20-edba-4cc8-83e3-4e2bb335d196/",
+          "status": "available",
+          "context": "Unified data foundation with Microsoft Fabric — covers building a governed, AI-ready data estate using Fabric as the foundation.",
+          "keywords": ["pitch deck", "unified data foundation", "fabric", "narrative", "supporting assets"]
+        },
+        {
+          "title": "L200 – Unify Your Data Estate",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%2Fdde0caec0e-9236-f21b-2991-5868e63d3984%2FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%2CPT0%3D%2CU29sdXRpb24gUGxheSBQaXRjaCBEZWNr%2Flf83fde345-ad36-4d6d-8772-f6a51c68cff6/",
+          "status": "available",
+          "context": "L200 solution play pitch deck for unifying your data estate — covering AI-ready data governance and Fabric data integration.",
+          "keywords": ["pitch deck", "l200", "unify data estate", "fabric", "narrative", "supporting assets"]
+        },
+        {
+          "title": "Fabric + Azure AI Foundry L200 Pitch Deck",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%25252Fdde0caec0e-9236-f21b-2991-5868e63d3984%25252FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%25252CPT0%25253D%25252CUHJvZHVjdCBQaXRjaCBEZWNr%25252Flfb3a29ed5-5b5b-4f0d-bf1a-aef7057482cb/?mode=view&searchId=bf444c91-07f4-44de-a647-f3213c6a80b7",
+          "status": "available",
+          "context": "L200 pitch deck for Microsoft Fabric + Azure AI Foundry — covering the integrated data and AI Foundry platform story.",
+          "keywords": ["pitch deck", "fabric", "azure ai foundry", "l200", "narrative", "supporting assets"]
+        },
+        {
+          "title": "Azure Databricks L100 Pitch Deck",
+          "url": "https://microsoft.seismic.com/apps/doccenter/a5266a70-9230-4c1e-a553-c5bddcb7a896/doc/%2Fdde0caec0e-9236-f21b-2991-5868e63d3984%2FdfYTZjNDRiZDMtMzEwZS1kNWZkLTNjOGEtNjliYWJjMjhmMmUw%2CPT0%3D%2CUHJvZHVjdCBQaXRjaCBEZWNr%2Flf9bea520e-9f9d-438f-8643-dec8b9dddbf9/",
+          "status": "available",
+          "context": "Azure Databricks L100 pitch deck for customer conversations about unified AI and analytics on Databricks.",
+          "keywords": ["pitch deck", "azure databricks", "l100", "narrative", "supporting assets"]
+        }
+      ]
+    },
+    "demos": [
+      {
+        "title": "Azure Hero Demo: Unify your Data Platform",
+        "url": "https://cdx.transform.microsoft.com/experience-detail/284d4172-8be4-4771-89dd-ac59c00aed3e",
+        "status": "available",
+        "context": "Azure Hero Demo — interactive demonstration of unifying your data platform with Microsoft Azure and Fabric.",
+        "keywords": ["demo", "azure hero", "unify data platform", "cdx", "supporting assets"]
+      },
+      {
+        "title": "Microsoft Fabric + Azure Databricks DREAM Demo 2.0 with Unity Catalog",
+        "url": "https://cdx.transform.microsoft.com/experience-detail/aded8565-fbdd-4304-9e0f-d5ae298e4e1e",
+        "status": "available",
+        "context": "Interactive DREAM Demo of Microsoft Fabric + Azure Databricks 2.0 with Unity Catalog for unified AI and analytics.",
+        "keywords": ["demo", "fabric", "azure databricks", "unity catalog", "dream demo", "cdx", "supporting assets"]
+      },
+      {
+        "title": "Real-Time Intelligence in Microsoft Fabric Snackable DREAM Demo",
+        "url": "https://cdx.transform.microsoft.com/experience-detail/ab5e9af3-2742-418c-96f6-759f9e2e6e0a",
+        "status": "available",
+        "context": "Snackable DREAM Demo showcasing Real-Time Intelligence capabilities in Microsoft Fabric.",
+        "keywords": ["demo", "real-time intelligence", "fabric", "rti", "dream demo", "cdx", "supporting assets"]
+      },
+      {
+        "group": "Manufacturing IQ Demos",
+        "items": [
+          {
+            "title": "Simulated",
+            "url": "https://cdx.transform.microsoft.com/experience-detail/473c0aab-d1bb-46d4-887e-58f2d68210dc",
+            "status": "available",
+            "context": "Simulated Manufacturing IQ demo — Microsoft IQ Manufacturing Factory Automation using Fabric, Foundry, and Work.",
+            "keywords": ["demo", "manufacturing", "simulated", "microsoft iq", "factory automation", "supporting assets"]
+          }
+        ]
+      },
+      {
+        "group": "Retail IQ Demos",
+        "items": [
+          {
+            "title": "Simulated",
+            "url": "https://cdx.transform.microsoft.com/experience-detail/2bdd2b91-f071-495b-91da-019f24e52d86",
+            "status": "available",
+            "context": "Simulated Retail IQ demo — Microsoft IQ Retail Assistant using Fabric, Foundry, and Work.",
+            "keywords": ["demo", "retail", "simulated", "microsoft iq", "retail assistant", "supporting assets"]
+          }
+        ]
+      },
+      {
+        "group": "Telco IQ Demos",
+        "items": [
+          {
+            "title": "Simulated",
+            "url": "https://cdx.transform.microsoft.com/experience-detail/bc2db2e9-f7ac-455e-ae8f-9ba87a8d0957",
+            "status": "available",
+            "context": "Simulated Telco IQ demo — Microsoft IQ Telco Operations using Fabric, Foundry, and Work.",
+            "keywords": ["demo", "telco", "simulated", "microsoft iq", "telco operations", "supporting assets"]
+          }
+        ]
+      },
+      {
+        "group": "FSI IQ Demos",
+        "items": [
+          {
+            "title": "Simulated",
+            "url": "https://cdx.transform.microsoft.com/experience-detail/38e7a8c9-93ae-4c45-ae11-95249362f193",
+            "status": "available",
+            "context": "Simulated FSI IQ demo — Microsoft IQ FSI Lending Agents using Fabric, Foundry, and Work.",
+            "keywords": ["demo", "fsi", "financial services", "simulated", "microsoft iq", "lending agents", "supporting assets"]
+          }
+        ]
+      }
+    ]
+  },
+  "modules": [
+    {
+      "key": "unify_your_data_and_ai_platform",
+      "name": "Unify Data and Knowledge Estate",
+      "aliases": [
+        "unify data and knowledge estate",
+        "unify your data and ai platform",
+        "unify data and ai platform"
+      ],
+      "outcomes_date": "July 13",
+      "context": "Unify your data estate for AI on Microsoft Fabric — connecting data silos, running agents across any model and environment, and turning data into real-time operational and business intelligence.",
+      "assets": {
+        "execution_guide": { "status": "coming_soon", "url": "", "context": "", "keywords": [] },
+        "whiteboarding_architectures": [
+          {
+            "title": "Unify your Data Estate for AI",
+            "url": "https://fy27-caip-whiteboard-experiences.azurewebsites.net/unify",
+            "status": "available",
+            "context": "Whiteboard architecture for unifying your data estate for AI — showing how Microsoft Fabric connects data sources into a governed, AI-ready platform.",
+            "keywords": ["whiteboard", "unified data estate", "microsoft fabric", "ai ready", "data governance"]
+          },
+          {
+            "title": "Run agents on your terms — across any model and environment",
+            "status": "coming_soon",
+            "url": "",
+            "context": "",
+            "keywords": []
+          },
+          {
+            "title": "Turn your data into real-time operational and business intelligence",
+            "status": "coming_soon",
+            "url": "",
+            "context": "",
+            "keywords": []
+          }
+        ],
+        "solution_accelerators": [
+          {
+            "title": "Build your IQ — context across people, business & knowledge",
+            "url": "https://accelerators.ms/",
+            "status": "available",
+            "context": "Microsoft AI Solution Accelerators for building enterprise IQ — context across people, business, and knowledge.",
+            "keywords": ["solution accelerator", "microsoft ai", "enterprise iq", "business context", "people", "knowledge"]
+          },
+          {
+            "title": "Ground AI in shared business meaning",
+            "url": "https://github.com/microsoft/microsoft-iq-solution-accelerator",
+            "status": "available",
+            "context": "Microsoft IQ Solution Accelerator for grounding AI in shared business meaning — connecting Fabric, Foundry, and organizational data to create a unified intelligence layer.",
+            "keywords": ["microsoft iq", "solution accelerator", "shared intelligence", "business meaning", "organizational data", "fabric", "foundry"]
+          }
+        ],
+        "labs": [
+          {
+            "title": "Fabric IQ Hands on Labs",
+            "url": "https://aka.ms/FabricIQLab",
+            "status": "available",
+            "context": "Hands-on lab for building modern data analytics and AI solutions using Microsoft Fabric — covering Data Engineering, Lakehouse, Real-Time Intelligence, Power BI, and OneLake.",
+            "keywords": ["lab", "hands-on", "Microsoft Fabric", "FabricIQ", "data engineering", "lakehouse", "power bi"]
+          },
+          {
+            "title": "Foundry IQ Hands on Labs",
+            "url": "https://aka.ms/foundryiqlab",
+            "status": "available",
+            "context": "Hands-on lab for building enterprise AI applications using Azure AI Foundry — covering AI agents, RAG, prompt orchestration, model deployment, AI evaluation, and vector search.",
+            "keywords": ["lab", "hands-on", "Azure AI Foundry", "FoundryIQ", "AI agents", "RAG", "vector search"]
+          },
+          {
+            "title": "Work IQ Hands on Labs",
+            "url": "https://aka.ms/WorkIQLab",
+            "status": "available",
+            "context": "Hands-on lab for automating enterprise business processes with AI agents — covering workflow automation, Microsoft 365 integration, and AI-powered business assistants.",
+            "keywords": ["lab", "hands-on", "Microsoft 365", "WorkIQ", "workflow automation", "business automation"]
+          }
+        ],
+        "github_repos": [
+          {
+            "title": "Fabric IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FabricIQ/Lab/Lab%20Building%20Fabric%20IQ",
+            "status": "available",
+            "context": "FabricIQ is a comprehensive Microsoft reference implementation for building modern data analytics and AI solutions using Microsoft Fabric. Covers Data Engineering, Data Factory, Data Science, Lakehouse, Data Warehouse, Real-Time Intelligence, Power BI, and OneLake.",
+            "keywords": ["Microsoft Fabric", "OneLake", "Lakehouse", "Data Engineering", "Data Factory", "Data Science", "Power BI", "Real-Time Intelligence", "FabricIQ"]
+          },
+          {
+            "title": "Foundry IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FoundryIQ/Lab/Lab%20Building%20Foundry%20IQ",
+            "status": "available",
+            "context": "FoundryIQ is a Microsoft reference implementation for building enterprise AI applications using Azure AI Foundry. Covers AI agents, RAG, prompt orchestration, model deployment, AI evaluation, and vector search.",
+            "keywords": ["Azure AI Foundry", "AI Agents", "RAG", "Vector Search", "AI Evaluation", "Model Deployment", "FoundryIQ"]
+          },
+          {
+            "title": "Work IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/WorkIQ/Lab/Lab%20Building%20Work%20IQ",
+            "status": "available",
+            "context": "WorkIQ is a Microsoft reference solution for automating enterprise business processes with AI agents including workflow automation, Microsoft 365 integration, and AI-powered assistants.",
+            "keywords": ["Microsoft 365", "Business Automation", "Workflow Automation", "Enterprise AI", "AI Assistant", "WorkIQ"]
+          },
+          {
+            "title": "Fabric IQ, Foundry IQ & Work IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FabricIQ-FoundryIQ-WorkIQ/Lab",
+            "status": "available",
+            "context": "End-to-end enterprise AI reference combining Microsoft Fabric, Azure AI Foundry, and workflow automation for a unified data and AI estate.",
+            "keywords": ["Microsoft Fabric", "Azure AI Foundry", "AI Agents", "RAG", "Enterprise AI", "Unified Data Estate", "End-to-End Solution"]
+          }
+        ],
+        "sample_prototype": [
+          {
+            "title": "Test Drive",
+            "url": "https://ai-solutions-lab-generator-uat4.azurewebsites.net/",
+            "status": "available",
+            "context": "Live test drive of a sample prototype built using the Unify Data and Knowledge Estate workshop module.",
+            "keywords": ["test drive", "sample prototype", "demo", "live prototype", "unified data"]
+          },
+          {
+            "title": "Sample Prototype Package",
+            "url": "https://sttechexperiencesassets.blob.core.windows.net/techexperience/Build&Govern_Artifacts.zip",
+            "status": "available",
+            "context": "Downloadable sample prototype package with artifacts for the Unify Data and Knowledge Estate module.",
+            "keywords": ["sample prototype package", "artifacts", "download", "unified data", "prototype"]
+          }
+        ],
+        "cora_preview": {
+          "status": "available",
+          "url": "",
+          "context": "Prototype using Cora (Preview) for the Unify your Data and AI Platform module.",
+          "keywords": ["cora", "preview", "prototype"]
+        },
+        "mvp": { "status": "coming_soon", "url": "", "context": "", "keywords": [] }
+      }
+    },
+    {
+      "key": "build_a_foundation_for_enterprise_intelligence",
+      "name": "Build a Foundation for Enterprise Intelligence",
+      "aliases": [
+        "build a foundation for enterprise intelligence",
+        "foundation for enterprise intelligence"
+      ],
+      "outcomes_date": "",
+      "context": "Build the enterprise intelligence foundation — with Microsoft IQ Solution Accelerator connecting Fabric, Foundry, and organizational knowledge to power AI agents at scale.",
+      "assets": {
+        "execution_guide": { "status": "coming_soon", "url": "", "context": "", "keywords": [] },
+        "whiteboarding_architectures": { "status": "coming_soon", "url": "", "context": "", "keywords": [] },
+        "solution_accelerators": [
+          {
+            "title": "Build your IQ — context across people, business & knowledge",
+            "url": "https://accelerators.ms/",
+            "status": "available",
+            "context": "Microsoft AI Solution Accelerators for building enterprise IQ — context across people, business, and knowledge.",
+            "keywords": ["solution accelerator", "microsoft ai", "enterprise iq", "business context", "people", "knowledge"]
+          },
+          {
+            "title": "Ground AI in shared business meaning",
+            "url": "https://github.com/microsoft/microsoft-iq-solution-accelerator",
+            "status": "available",
+            "context": "Microsoft IQ Solution Accelerator for grounding AI in shared business meaning — connecting Fabric, Foundry, and organizational data to create a unified intelligence layer.",
+            "keywords": ["microsoft iq", "solution accelerator", "shared intelligence", "business meaning", "organizational data", "fabric", "foundry"]
+          }
+        ],
+        "labs": [
+          {
+            "title": "Fabric IQ Hands on Labs",
+            "url": "https://aka.ms/FabricIQLab",
+            "status": "available",
+            "context": "Hands-on lab for building modern data analytics and AI solutions using Microsoft Fabric — covering Data Engineering, Lakehouse, Real-Time Intelligence, Power BI, and OneLake.",
+            "keywords": ["lab", "hands-on", "Microsoft Fabric", "FabricIQ", "data engineering", "lakehouse", "power bi"]
+          },
+          {
+            "title": "Foundry IQ Hands on Labs",
+            "url": "https://aka.ms/foundryiqlab",
+            "status": "available",
+            "context": "Hands-on lab for building enterprise AI applications using Azure AI Foundry — covering AI agents, RAG, prompt orchestration, model deployment, AI evaluation, and vector search.",
+            "keywords": ["lab", "hands-on", "Azure AI Foundry", "FoundryIQ", "AI agents", "RAG", "vector search"]
+          },
+          {
+            "title": "Work IQ Hands on Labs",
+            "url": "https://aka.ms/WorkIQLab",
+            "status": "available",
+            "context": "Hands-on lab for automating enterprise business processes with AI agents — covering workflow automation, Microsoft 365 integration, and AI-powered business assistants.",
+            "keywords": ["lab", "hands-on", "Microsoft 365", "WorkIQ", "workflow automation", "business automation"]
+          }
+        ],
+        "github_repos": [
+          {
+            "title": "Fabric IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FabricIQ/Lab/Lab%20Building%20Fabric%20IQ",
+            "status": "available",
+            "context": "FabricIQ reference implementation covering Microsoft Fabric workloads including Data Engineering, Data Factory, Data Science, Lakehouse, and OneLake.",
+            "keywords": ["Microsoft Fabric", "OneLake", "Lakehouse", "Data Engineering", "FabricIQ"]
+          },
+          {
+            "title": "Foundry IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FoundryIQ/Lab/Lab%20Building%20Foundry%20IQ",
+            "status": "available",
+            "context": "FoundryIQ reference implementation for building enterprise AI with Azure AI Foundry including AI agents, RAG, evaluation, and vector search.",
+            "keywords": ["Azure AI Foundry", "AI Agents", "RAG", "AI Evaluation", "Vector Search", "FoundryIQ"]
+          },
+          {
+            "title": "Work IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/WorkIQ/Lab/Lab%20Building%20Work%20IQ",
+            "status": "available",
+            "context": "WorkIQ reference solution for workflow automation and Microsoft 365 integration with AI agents.",
+            "keywords": ["Microsoft 365", "Workflow Automation", "Enterprise AI", "AI Assistant", "WorkIQ"]
+          },
+          {
+            "title": "Fabric IQ, Foundry IQ & Work IQ",
+            "url": "https://github.com/TechExperiences/Microsoft-Fabric-and-Foundry-IQ-v2/tree/FabricIQ-FoundryIQ-WorkIQ/Lab",
+            "status": "available",
+            "context": "End-to-end enterprise AI combining Microsoft Fabric, Azure AI Foundry, and workflow automation for a unified data and AI estate.",
+            "keywords": ["Microsoft Fabric", "Azure AI Foundry", "AI Agents", "RAG", "Enterprise AI", "End-to-End Solution"]
+          }
+        ],
+        "sample_prototype": [
+          {
+            "title": "Test Drive",
+            "url": "",
+            "status": "coming_soon",
+            "context": "",
+            "keywords": []
+          },
+          {
+            "title": "Sample Prototype Package",
+            "url": "https://sttechexperiencesassets.blob.core.windows.net/techexperience/Build&Govern_Artifacts.zip",
+            "status": "available",
+            "context": "Downloadable sample prototype package with artifacts for the Build a Foundation for Enterprise Intelligence module.",
+            "keywords": ["sample prototype package", "artifacts", "download", "enterprise intelligence", "prototype"]
+          }
+        ],
+        "cora_preview": {
+          "status": "available",
+          "url": "",
+          "context": "Prototype using Cora (Preview) for the Build a Foundation for Enterprise Intelligence module.",
+          "keywords": ["cora", "preview", "prototype"]
+        },
+        "mvp": { "status": "coming_soon", "url": "", "context": "", "keywords": [] }
+      }
+    }
+  ]
+}
